@@ -32,6 +32,14 @@ Este es un proyecto de aplicación web para crear y gestionar comentarios en un 
 
 Primero, clona el repositorio en tu máquina local:
 
-```bash
-git clone https://github.com/tu_usuario/proyecto-comentarios.git
-cd proyecto-comentarios
+### Paso 2: Activar entorno virtual
+
+En la Bash con el comando source myenv/Scripts/activate activar el entorno virtual
+
+### Paso 3: Correr el programa
+
+Ejecutas el comando python manage.py runserver y correras el servidor con el back y front
+
+### Paso 4: Usar el programa en localhost
+
+Para probar el programa debes abrir http//:localhost:8000/ , ahi podras probar las funcionalidades y demas
